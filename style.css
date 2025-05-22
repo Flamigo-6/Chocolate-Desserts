@@ -1,3 +1,27 @@
 body {
 	background-color: #BBC3B7;
+
 }
+h1 {
+	font-size: 24px;
+
+}
+
+p, li, a {
+	font-family: "Times New Roman", san-serif;
+}
+
+img {
+   float: center;
+   margin-left: 50px; 
+   padding: 10px; 
+}
+
+a {
+  color: #000080;
+}
+
+
+
+
+
